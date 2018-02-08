@@ -1,0 +1,12 @@
+C:\Users\OnYi\Desktop\TemporaryFile\TempFile\bin\Release\TemporaryFile.dll
+C:\Users\OnYi\Desktop\TemporaryFile\TempFile\bin\Release\TemporaryFile.pdb
+C:\Users\OnYi\Desktop\TemporaryFile\TempFile\obj\Release\TemporaryFile.csprojResolveAssemblyReference.cache
+C:\Users\OnYi\Desktop\TemporaryFile\TempFile\obj\Release\TemporaryFile.csproj.CoreCompileInputs.cache
+C:\Users\OnYi\Desktop\TemporaryFile\TempFile\obj\Release\TemporaryFile.dll
+C:\Users\OnYi\Desktop\TemporaryFile\TempFile\obj\Release\TemporaryFile.pdb
+C:\Users\OnYi\Desktop\TemporaryFile\bin\Release\TemporaryFile.dll
+C:\Users\OnYi\Desktop\TemporaryFile\bin\Release\TemporaryFile.pdb
+C:\Users\OnYi\Desktop\TemporaryFile\obj\Release\TemporaryFile.csprojResolveAssemblyReference.cache
+C:\Users\OnYi\Desktop\TemporaryFile\obj\Release\TemporaryFile.csproj.CoreCompileInputs.cache
+C:\Users\OnYi\Desktop\TemporaryFile\obj\Release\TemporaryFile.dll
+C:\Users\OnYi\Desktop\TemporaryFile\obj\Release\TemporaryFile.pdb
